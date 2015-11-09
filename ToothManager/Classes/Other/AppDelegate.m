@@ -27,6 +27,7 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     self.window.backgroundColor = [UIColor whiteColor];
     application.statusBarHidden = NO;
+    NSLog(@"sss");
     
     __weak __typeof(&*self)weakSelf = self;
     [NSUserDefaults launchControllerWithMainControllerBlock:^{ // 主要操作
