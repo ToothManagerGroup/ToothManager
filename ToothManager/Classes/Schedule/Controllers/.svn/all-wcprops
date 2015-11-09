@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ToothManager/!svn/ver/94/trunk/ToothManager/ToothManager/Classes/Schedule/Controllers
+END
+TTMScheduleController.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ToothManager/!svn/ver/91/trunk/ToothManager/ToothManager/Classes/Schedule/Controllers/TTMScheduleController.m
+END
+TTMScheduleDetailController.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ToothManager/!svn/ver/94/trunk/ToothManager/ToothManager/Classes/Schedule/Controllers/TTMScheduleDetailController.m
+END
+TTMCalendarController.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ToothManager/!svn/ver/32/trunk/ToothManager/ToothManager/Classes/Schedule/Controllers/TTMCalendarController.h
+END
+TTMScheduleController.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ToothManager/!svn/ver/24/trunk/ToothManager/ToothManager/Classes/Schedule/Controllers/TTMScheduleController.h
+END
+TTMCalendarController.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ToothManager/!svn/ver/92/trunk/ToothManager/ToothManager/Classes/Schedule/Controllers/TTMCalendarController.m
+END
+TTMScheduleDetailController.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ToothManager/!svn/ver/29/trunk/ToothManager/ToothManager/Classes/Schedule/Controllers/TTMScheduleDetailController.h
+END

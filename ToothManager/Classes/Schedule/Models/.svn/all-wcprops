@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ToothManager/!svn/ver/94/trunk/ToothManager/ToothManager/Classes/Schedule/Models
+END
+TTMScheduleRequestModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ToothManager/!svn/ver/24/trunk/ToothManager/ToothManager/Classes/Schedule/Models/TTMScheduleRequestModel.h
+END
+TTMChairModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ToothManager/!svn/ver/62/trunk/ToothManager/ToothManager/Classes/Schedule/Models/TTMChairModel.h
+END
+TTMScheduleRequestModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ToothManager/!svn/ver/24/trunk/ToothManager/ToothManager/Classes/Schedule/Models/TTMScheduleRequestModel.m
+END
+TTMChairModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ToothManager/!svn/ver/62/trunk/ToothManager/ToothManager/Classes/Schedule/Models/TTMChairModel.m
+END
+TTMScheduleCellModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ToothManager/!svn/ver/94/trunk/ToothManager/ToothManager/Classes/Schedule/Models/TTMScheduleCellModel.h
+END
+TTMScheduleCellModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ToothManager/!svn/ver/94/trunk/ToothManager/ToothManager/Classes/Schedule/Models/TTMScheduleCellModel.m
+END
